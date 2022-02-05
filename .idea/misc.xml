@@ -11,6 +11,7 @@
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.10507246376811594" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.10507246376811594" />
         <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.10507246376811594" />
+        <entry key="app/src/main/res/layout/list_ringtone_checkbox.xml" value="0.14" />
         <entry key="app/src/main/res/layout/ringtones_list_fragment.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.18703703703703703" />
       </map>
